@@ -1,6 +1,6 @@
 # BivuNabaKhamaC
 This font is used in NCTB by Bangladesh for Chakma people.
-BivuNabaKhamaC is the first Chakma font developed specifically for preparing textbooks in the Chakma language. This font was newly updated on <span style="color: Red"> 30 June 2026**. </span> With this updated version, it is now possible to write all types of signs and symbols required for the Chakma language. The details are provided below:
+BivuNabaKhamaC is the first Chakma font developed specifically for preparing textbooks in the Chakma language. This font was newly updated on <span style="color: Red"> 30 June 2026. </span> With this updated version, it is now possible to write all types of signs and symbols required for the Chakma language. The details are provided below:
 
 You can access and download the official materials digitally:
 Official Portals: Find the downloadable PDF files and pre-primary content directly on the [NCTB Official Website](https://nctb.gov.bd/pages/static-pages/6922df7d933eb65569e22552) or check the NCTB Academic Directory for primary text updates.
