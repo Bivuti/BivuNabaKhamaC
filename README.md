@@ -7,3 +7,7 @@ You can access and download the official materials digitally:
 - Official Portals: Find the downloadable PDF files and pre-primary content directly on the [NCTB Official Website](https://nctb.gov.bd/pages/static-pages/6922df7d933eb65569e22552) or check the NCTB Academic Directory for primary text updates.
 
 - Mobile App: To read and download NCTB books directly on your Android device, you can use the [NCTB Book App on Google Play](https://play.google.com/store/apps/details?id=com.bdmyschool.nctb).
+
+- For more information about the BivuNabaKhamaC font, please contact:
+- Email: bsereye@hotmail.com
+- Phone: +8801786529401
